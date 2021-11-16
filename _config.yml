@@ -53,7 +53,7 @@ topics:
 
   - name: Game Engines
     web_url: https://github.com/topics/game-engine
-    image_url: https://cdn1.iconfinder.com/data/icons/game-design-butterscotch-vol-1/256/Game_Publishing-512.png
+    image_url: https://cdn1.iconfinder.com/data/icons/game-design-butterscotch-vol-1/256/Game_Publishing-512.png 
 
   - name: Python
     web_url: https://github.com/topics/python
